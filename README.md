@@ -1,5 +1,7 @@
 # .editorconfig
-editor config file is a text file which helps configure the editor code writing style
+editor config file is a text file which helps configure the editor code writing style <br>
+This repository is a knowledge combining my note khata and this repo. <br>
+In this repo, many information are missing because they are on my khata.
 
 <br>
 <br>
